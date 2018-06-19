@@ -1,5 +1,4 @@
-# 120_lesson_2
-120 Object Oriented Programming: Lesson #2
+# 120 Object Oriented Programming: Lesson #2
 
 Topics covered in the lesson include:
 * Classes
